@@ -1,0 +1,14 @@
+{
+  "version": "0.0.12",
+  "changelog": "New features added, performance improved.",
+  "recurse":[
+    {
+      "name":"example",
+      "url": "https://example.com/download"
+    },
+    {
+      "name":"example2",
+      "url": "https://example2.com/download"
+    }
+  ]
+}
