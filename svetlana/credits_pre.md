@@ -1,4 +1,4 @@
-Thank you for purchasing this game. I hope you enjoy playing around with it..
+Thank you for purchasing this game. I hope you enjoy playing around with it.
 
 Please do not redistribute this file.
 
